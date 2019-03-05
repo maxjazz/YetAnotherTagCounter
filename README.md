@@ -5,9 +5,9 @@ Home project for Python Introduction Course
 
 Получения списка тегов
 
-yatc.py --get 'http://yandex.ru'
+```yatc.py --get 'http://yandex.ru'```
 или
-yatc.py -g 'http://yandex.ru'
+```yatc.py -g 'http://yandex.ru'```
 
 Вывод:
 
@@ -44,5 +44,5 @@ yatc.py -g 'http://yandex.ru'
 +----------+-----------+
 ```
 Прочитать сохраненные данные в БД
-yatc.py --view "http://yandex.ru"
+```yatc.py --view "http://yandex.ru"```
 
