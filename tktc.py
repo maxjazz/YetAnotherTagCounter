@@ -27,17 +27,12 @@ class tktc():
 		combobox.grid(row=0)
    
 		bc.grid(row=1, column=1)
-	#e.grid(row=1, column=0)
     
 		load_button.grid(row=2, column=0)
 		view_from_db_button.grid(row=2, column=1)
     
 		l.grid(row=3, columnspan=2)
-    
 
-	#firstFrame.pack()
-	#secondFrame.pack()
-	#thirdFrame.pack()
 
 		root.mainloop()
 
