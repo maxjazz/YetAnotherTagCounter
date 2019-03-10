@@ -1,7 +1,6 @@
 import sqlite3
 import pickle
 import logging
-from parser import Page
 
 class Store:
 
