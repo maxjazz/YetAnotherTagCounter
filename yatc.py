@@ -19,7 +19,8 @@ def main():
 		tc = TC()
 		tc.run(args)
 	else:
-		tktc.run()
+		tk = tktc()
+		tk.run()
 
 if __name__ == '__main__':
     main()
